@@ -1,2 +1,2 @@
-# MiniProject
-Chat Bot AI Assistant Created using Python and its modules
+# GUI-Jarvis
+place Model.h5 file into your python directory where lshotword is installed
